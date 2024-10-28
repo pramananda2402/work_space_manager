@@ -1,0 +1,17 @@
+# ninja log v6
+2	203	1730142565823730947	FileManagerApp_autogen/timestamp	143250ab4d2e6e83
+2	203	1730142565823730947	FileManagerApp_autogen/mocs_compilation.cpp	143250ab4d2e6e83
+2	203	1730142565823730947	/home/pramananda/working-dir/swe/projects/file-manager-app/FileManagerApp/build/Desktop-Debug/FileManagerApp_autogen/timestamp	143250ab4d2e6e83
+2	203	1730142565823730947	/home/pramananda/working-dir/swe/projects/file-manager-app/FileManagerApp/build/Desktop-Debug/FileManagerApp_autogen/mocs_compilation.cpp	143250ab4d2e6e83
+203	958	1730142565830398038	CMakeFiles/FileManagerApp.dir/FileManagerApp_autogen/mocs_compilation.cpp.o	6c7507a1653cadd8
+203	972	1730142565830398038	CMakeFiles/FileManagerApp.dir/main.cpp.o	22d232442895570a
+204	989	1730142565830398038	CMakeFiles/FileManagerApp.dir/mainwindow.cpp.o	63e4d9a187686e3
+989	1097	1730142566617114778	FileManagerApp	7e4d086aa4b48630
+2	207	1730142776185974260	FileManagerApp_autogen/timestamp	143250ab4d2e6e83
+2	207	1730142776185974260	FileManagerApp_autogen/mocs_compilation.cpp	143250ab4d2e6e83
+2	207	1730142776185974260	/home/pramananda/working-dir/swe/projects/file-manager-app/FileManagerApp/build/Desktop-Debug/FileManagerApp_autogen/timestamp	143250ab4d2e6e83
+2	207	1730142776185974260	/home/pramananda/working-dir/swe/projects/file-manager-app/FileManagerApp/build/Desktop-Debug/FileManagerApp_autogen/mocs_compilation.cpp	143250ab4d2e6e83
+207	1325	1730142776189307266	CMakeFiles/FileManagerApp.dir/main.cpp.o	22d232442895570a
+207	1325	1730142776189307266	CMakeFiles/FileManagerApp.dir/FileManagerApp_autogen/mocs_compilation.cpp.o	6c7507a1653cadd8
+207	1340	1730142776189307266	CMakeFiles/FileManagerApp.dir/mainwindow.cpp.o	63e4d9a187686e3
+1340	1472	1730142777322529231	FileManagerApp	7e4d086aa4b48630
